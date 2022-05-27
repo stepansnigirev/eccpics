@@ -19,11 +19,11 @@
             <text id="s×G" font-family="Georgia" font-size="36" font-weight="normal" fill="#000000">
                 <tspan x="865" y="97">s×G</tspan>
             </text>
-            <text id="hash(P,R,m)×P" font-family="Georgia" font-size="36" font-weight="normal" fill="#000000">
-                <tspan x="0" y="440">hash(P,R,m)×P</tspan>
+            <text id="hash(R,P,m)×P" font-family="Georgia" font-size="36" font-weight="normal" fill="#000000">
+                <tspan x="0" y="440">hash(R,P,m)×P</tspan>
             </text>
             <text id="s×G-=-R-+-hash(P,R,m" transform="translate(905.000000, 470.500000) rotate(-90.000000) translate(-905.000000, -470.500000) " font-family="Georgia" font-size="36" font-weight="normal" fill="#9B9B9B">
-                <tspan x="696" y="483">s×G = R + hash(P,R,m)×P</tspan>
+                <tspan x="696" y="483">s×G = R + hash(R,P,m)×P</tspan>
             </text>
             <text id="P-=-pk×G" font-family="Georgia" font-size="36" font-weight="normal" fill="#000000">
                 <tspan x="301" y="397">P = pk×G</tspan>
